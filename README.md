@@ -2,4 +2,4 @@
 
 "TimeMAC: Collaborative Multi-Agent Forecasting for Hierarchical Time Series" is under reviewing at ICML 2026.
 
-Please Experiment_TimeMAC.pdf.
+Please see in Experiment_TimeMAC.pdf.
